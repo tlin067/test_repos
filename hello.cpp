@@ -2,6 +2,6 @@
 
 main()
 {
-    cout << "Hello World this is my edit!";
+    cout << "Hello World";
     return 0;
 }
